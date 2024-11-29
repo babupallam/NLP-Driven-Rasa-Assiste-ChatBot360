@@ -1,4 +1,2 @@
-.idea
-.venv
-outline_creation.py
-OUTLINE.md
+/data/raw/customer_support_dataset.csv
+data/processed/customer_support_dataset_processed.csv
