@@ -1,2 +1,14 @@
 /data/raw/customer_support_dataset.csv
 data/processed/customer_support_dataset_processed.csv
+glove.6B.200d.txt
+glove.6B.100d.txt
+glove.6B.300d.txt
+glove.6B.50d.txt
+models/seq2seq_attention_best_model.pth
+/.idea
+/models
+/.idea
+/logs
+Notes.txt
+OUTLINE.md
+outline_creation.py
